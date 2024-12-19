@@ -1,0 +1,12 @@
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/SpringDataRestEventHandler.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/HomeController.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/DatabaseLoader.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/SpringDataJpaUserDetailsService.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/EventHandler.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/ReactAndSpringDataRestApplication.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/EmployeeRepository.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/SecurityConfiguration.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/WebSocketConfiguration.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/Employee.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/Manager.java
+/home/abd/devops-project/spring-boot-react-example/backend/src/main/java/com/contoso/payroll/ManagerRepository.java
